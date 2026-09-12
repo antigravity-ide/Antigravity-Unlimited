@@ -1,0 +1,2 @@
+/* rev-d4e81a-20260912 */
+v2.8.0 ide, gemini agents, cli, windows
